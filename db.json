@@ -1,0 +1,64 @@
+{
+    "transparencia": [
+        {
+            "id": 1,
+            "titulo": "Ata posse 2021",
+            "link": "https://drive.google.com/file/d/1Rjo6pHuPVDchJjO1QcR4c48tat7zjooH/view?usp=sharing"
+        },
+        {
+            "id": 2,
+            "titulo": "Ata posse 2021",
+            "link": "https://drive.google.com/file/d/1Rjo6pHuPVDchJjO1QcR4c48tat7zjooH/view?usp=sharing"
+        },
+        {
+            "id": 3,
+            "titulo": "Ata posse 2021",
+            "link": "https://drive.google.com/file/d/1Rjo6pHuPVDchJjO1QcR4c48tat7zjooH/view?usp=sharing"
+        },
+        {
+            "id": 4,
+            "titulo": "Ata posse 2021",
+            "link": "https://drive.google.com/file/d/1Rjo6pHuPVDchJjO1QcR4c48tat7zjooH/view?usp=sharing"
+        },
+        {
+            "id": 5,
+            "titulo": "Ata posse 2021",
+            "link": "https://drive.google.com/file/d/1Rjo6pHuPVDchJjO1QcR4c48tat7zjooH/view?usp=sharing"
+        },
+        {
+            "id": 6,
+            "titulo": "Ata posse 2021",
+            "link": "https://drive.google.com/file/d/1Rjo6pHuPVDchJjO1QcR4c48tat7zjooH/view?usp=sharing"
+        }
+    ],
+    "impressa": [
+        {
+            "id": 1,
+            "imagem": "https://webterra.com.br/wp-content/uploads/2022/07/Amor-e-Vida21-300x165.jpeg",
+            "titulo": "Campanha",
+            "resumo": "Montes Claros: galpão de reciclagem ‘Amor e Vida’ promove ação solidária em prol da população LGBTQI+",
+            "link": "https://webterra.com.br/2022/07/12/montes-claros-galpao-de-reciclagem-amor-e-vida-promove-acao-solidaria-em-prol-da-populacao-lgbtqi/"
+        },
+        {
+            "id": 2,
+            "imagem": "https://unimontes.br/wp-content/uploads/2021/07/palestra-1.jpeg",
+            "titulo": "Campanha",
+            "resumo": "Ação do Unimontes Solidária e Projeto Amor e Vida: entrega donativos para famílias atingidas pela pandemia",
+            "link": "https://unimontes.br/acao-do-unimontes-solidaria-e-projeto-amor-e-vida-entrega-donativos-para-familias-atingidas-pela-pandemia/"
+        },
+        {
+            "id": 3,
+            "imagem": "https://webterra.com.br/wp-content/uploads/2022/07/Amor-e-Vida21-300x165.jpeg",
+            "titulo": "Campanha",
+            "resumo": "Projeto 'Amor e Vida' realiza reciclagem e capacita moradores de… ",
+            "link": "https://globoplay.globo.com/v/8031529/"
+        },
+        {
+            "id": 4,
+            "imagem": "https://aconteceunovale.com.br/portal/wp-content/uploads/2019/08/reciclagem_moc.jpg",
+            "titulo": "Campanha",
+            "resumo": "Montes Claros cria lei para estimular a coleta seletiva de lixo",
+            "link": "https://aconteceunovale.com.br/portal/?p=151333"
+        }
+    ]
+}
